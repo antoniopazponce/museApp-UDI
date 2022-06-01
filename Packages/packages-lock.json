@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.ptc.vuforia.engine": {
-      "version": "file:com.ptc.vuforia.engine-10.6.3.tgz",
+      "version": "file:com.ptc.vuforia.engine-10.7.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
@@ -46,7 +46,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.13",
+      "version": "3.0.14",
       "depth": 0,
       "source": "registry",
       "dependencies": {
